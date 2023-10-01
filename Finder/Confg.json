@@ -1,0 +1,7 @@
+Group.id/Index-goto("Lowest Id search here")("To the highest Id search here")
+--------------------------------------------------------------------------------- Edit nothing under this line
+Java.%Send%("Found Groups.txt") 
+Index.Id-Skim("Line 1")
+Skim.Site=Roblox.com--) 
+Auto.Login--Skim.Account("PasteBin.txt")---Encrypt("File")
+Skim<End>
