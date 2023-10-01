@@ -1,5 +1,3 @@
-::[Bat To Exe Converter]
-::
 ::fBE1pAF6MU+EWHreyHcjLQlHcCCNMmquD7oS1Mz+/OGTrV0hcusxfIrJug==
 ::YAwzoRdxOk+EWAnk
 ::fBw5plQjdG8=
