@@ -33,6 +33,6 @@
 @echo off
 color 02
 :start
-echo %random% %random% %random% %random% %random% %random% %random%
+echo %random% %t.me/remenixedits% %random% %t.me/remenixedits% %random% %t.me/remenixedits% %random%
 
 goto start 
